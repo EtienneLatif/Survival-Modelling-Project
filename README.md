@@ -1,5 +1,5 @@
 # Survival-Modelling-Project
-Coursework applying survival modelling concepts to real world data.
+University coursework applying survival modelling concepts to real world data.
 
 # Task 1
 
